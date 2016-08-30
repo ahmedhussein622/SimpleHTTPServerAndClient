@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1445038126 source:/home/heg/Codeblocks/SocketProgrammingServer/main.cpp
+
+1445796381 source:/home/heg/Codeblocks/SocketProgrammingServer/Server.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<string>
+	<vector>
+	<sstream>
+

@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>this is tha about page</p>
+<a href="index.html">go back to index</a>
+<img src="drevil.jpg" alt="some_text">
+</body>
+</html>

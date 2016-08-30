@@ -1,0 +1,7 @@
+GET /index.html 127.0.0.1 80
+GET /about.html 127.0.0.1 80
+GET /drevil.jpg 127.0.0.1 80
+GET /BlackwaterPark.mp3 127.0.0.1 80
+GET /Everest.2015.HC.HDRip.850MB.MkvCage.mkv 127.0.0.1 80
+POST /Everest.2015.HC.HDRip.850MB.MkvCage.mkv 127.0.0.1 80
+POST /BlackwaterPark.mp3 127.0.0.1 80
